@@ -28,18 +28,12 @@ organizations:
   - name: 吉林大学
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-    - course: 化学
+    - course: 理学博士 无机化学
+      institution: 吉林大学 无机合成与制备化学国家重点实验室
+      year: 2022
+    - course: 理学学士 化学专业
       institution: 吉林大学
-      year: ""
+      year: 2017
 email: ""
 superuser: true
 highlight_name: false
