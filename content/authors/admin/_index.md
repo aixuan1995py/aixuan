@@ -19,6 +19,8 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/aixuan1995py
+    display:
+      header: true
 organizations:
   - name: 吉林大学
 education:
