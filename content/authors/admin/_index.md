@@ -1,6 +1,6 @@
 ---
 title: aixuan
-role: Professor of Artificial Intelligence
+role: PhD student of Chemistry
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
