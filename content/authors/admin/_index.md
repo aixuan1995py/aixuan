@@ -22,7 +22,7 @@ social:
     display:
       header: true
 organizations:
-  - name: 吉林大学
+  - name: 吉林大学 无机合成与制备化学国家重点实验室
 education:
   courses:
     - course: 理学博士 无机化学
