@@ -1,13 +1,14 @@
 ---
-title: aixuan
+title: 艾轩
 role: PhD student of Chemistry
 avatar_filename: ax.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - DFT
+  - 高通量计算
+  - 固相合成
+  - 催化
 social:
   - icon: envelope
     icon_pack: fas
@@ -30,10 +31,10 @@ education:
   courses:
     - course: 理学博士 无机化学
       institution: 吉林大学 无机合成与制备化学国家重点实验室
-      year: 2022
+      year: 2017-2022
     - course: 理学学士 化学专业
       institution: 吉林大学
-      year: 2017
+      year: 2013-2017
 email: ""
 superuser: true
 highlight_name: false
