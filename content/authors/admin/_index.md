@@ -1,7 +1,7 @@
 ---
 title: aixuan
 role: PhD student of Chemistry
-avatar_filename: ax.jpg
+avatar_filename: http://www.zouxxgroup.com/images/photo/ax.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
