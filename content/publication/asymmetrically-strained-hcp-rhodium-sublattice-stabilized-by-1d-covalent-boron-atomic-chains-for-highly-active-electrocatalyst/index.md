@@ -14,7 +14,7 @@ authors:
 author_notes:
   - 共同一作
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
