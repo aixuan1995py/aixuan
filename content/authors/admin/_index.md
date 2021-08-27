@@ -32,7 +32,7 @@ education:
     - course: 理学博士 无机化学
       institution: 吉林大学 无机合成与制备化学国家重点实验室
       year: 2017-2022
-    - course: 理学学士 化学专业
+    - course: 理学学士 化学
       institution: 吉林大学
       year: 2013-2017
 email: ""
