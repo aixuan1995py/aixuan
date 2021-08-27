@@ -1,7 +1,7 @@
 ---
 title: 艾轩
 role: PhD student of Chemistry
-avatar_filename: ax.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
