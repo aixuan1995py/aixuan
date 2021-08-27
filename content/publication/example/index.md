@@ -16,21 +16,25 @@ abstract: A theoretical and experimental study gives insights into the nature of
 slides: example
 url_pdf: ""
 publication_types:
-  - "1"
   - "2"
 authors:
-  - admin
-  - Robert Ford
-author_notes:
-  - Equal contribution
-  - Equal contribution
-publication: In *Wowchemy Conference*
+  - Xuan Ai
+  - Xu Zou
+  - Hui Chen
+  - Yutong Su
+  - Xilan Feng
+  - Qiuju Li
+  - Yipu Liu
+  - Yu Zhang
+  - Xiaoxin Zou*
+author_notes: []
+publication: Angewandte Chemie International Edition
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
   condimentum.
 url_dataset: ""
 url_project: ""
-publication_short: In *ICW*
+publication_short: ""
 url_source: ""
 url_video: ""
 title: Transition-Metal-Boron Intermetallics with Strong Interatomic d-sp
