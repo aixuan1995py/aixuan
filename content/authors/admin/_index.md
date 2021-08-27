@@ -1,6 +1,7 @@
 ---
 title: aixuan
 role: PhD student of Chemistry
+avatar_filename: ax.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -24,8 +25,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: 吉林大学
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -37,6 +37,9 @@ education:
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
+    - course: 化学
+      institution: 吉林大学
+      year: ""
 email: ""
 superuser: true
 highlight_name: false
