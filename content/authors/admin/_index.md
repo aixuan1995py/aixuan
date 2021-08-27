@@ -35,9 +35,6 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+艾轩，男，1995年生，本科毕业于吉林大学化学学院，现为吉林大学化学学院无机合成与制备化学国家重点实验室2019级博士生。从事无机固体材料在电催化水裂解方面的基础研究，开展了催化剂设计合成、催化机制探索、催化活性位点的配位结构和电子结构调控等研究工作。迄今为止，以第一作者（含共同一作）在***Angew. Chem. Int. Ed.***（2 篇）、***Adv. Energy Mater.***、***Chem. Commun.***（2篇）等学术刊物上发表论文5篇；曾获得国家奖学金，吉林大学研究生一等奖学金。
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
