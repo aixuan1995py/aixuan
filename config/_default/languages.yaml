@@ -6,12 +6,12 @@
 zh:
   languageCode: zh-Hans
   contentDir: content/zh
-  title: Chinese website title...
+  title: 艾轩
   params:
     description: Site description in Chinese...
   menu:
     main:
-      - name: 传
+      - name: 简历
         url: '#about'
         weight: 1
 
