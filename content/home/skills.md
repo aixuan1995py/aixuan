@@ -22,15 +22,15 @@ feature:
   name: python
 - description: major
   icon: linux
-  icon_pack: fas
+  icon_pack: fab
   name: linux
 - description: basic
   icon: js
-  icon_pack: fas
+  icon_pack: fab
   name: Javascript
 - description: basic
   icon: php
-  icon_pack: fas
+  icon_pack: fab
   name: Php
 
 # Uncomment to use emoji icons.
