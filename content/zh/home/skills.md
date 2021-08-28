@@ -17,6 +17,10 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: major
+  icon: vasp
+  icon_pack: custom
+  name: vasp
+- description: major
   icon: python
   icon_pack: fab
   name: python
