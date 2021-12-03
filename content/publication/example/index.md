@@ -13,7 +13,7 @@ abstract: A theoretical and experimental study gives insights into the nature of
   TMB intermetallics, containing V, Nb, Ta, Cr, Mo, W, and Ru, are thus
   synthesized. RuB is a high-performing, non-platinum electrocatalyst for the
   hydrogen evolution reaction.
-slides: example
+slides: ""
 url_pdf: ""
 publication_types:
   - "2"
@@ -40,10 +40,9 @@ title: Transition-Metal-Boron Intermetallics with Strong Interatomic d-sp
 doi: ""
 featured: true
 tags: []
-projects:
-  - example
+projects: []
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption: ""
   focal_point: ""
   preview_only: false
   filename: featured.jpg
