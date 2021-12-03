@@ -12,6 +12,7 @@ authors:
   - Dong Wang
   - Xiaoxin Zou*
 author_notes: []
+doi: 10.1039/D1CC00774B
 publication: Chemical Communications
 abstract: Intermetallic rhodium boride (RhB) comprising an asymmetrically
   strained hcp Rh sublattice is synthesized. The covalent interaction of

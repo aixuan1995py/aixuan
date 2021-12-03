@@ -10,6 +10,7 @@ authors:
   - Hui Chen
   - Guodong Li
   - Wei Chen and Xiaoxin Zou*
+doi: 10.1039/C9CC03638E
 publication: Chemical Communications
 abstract: A family of twelve monometallic diborides, containing transition
   metals from group IVB elements to group VIII elements, and Ni–W bimetallic
