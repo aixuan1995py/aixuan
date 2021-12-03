@@ -22,5 +22,6 @@ image:
   filename: featured.jpg
   focal_point: Smart
   preview_only: false
+url_pdf: "publication\a-class-of-metal-diboride-electrocatalysts-synthesized-by-a-molten-salt-assisted-reaction-for-the-hydrogen-evolution-reaction/c9cc03638e.pdf"
 date: 2021-12-03T13:37:55.352Z
 ---

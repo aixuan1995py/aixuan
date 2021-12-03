@@ -26,5 +26,6 @@ image:
   filename: featured.jpg
   focal_point: Smart
   preview_only: false
+url_pdf: "publication\asymmetrically-strained-hcp-rhodium-sublattice-stabilized-by-1d-covalent-boron-atomic-chains-for-highly-active-electrocatalyst/d1cc00774b.pdf"
 date: 2021-08-27T11:21:44.513Z
 ---
