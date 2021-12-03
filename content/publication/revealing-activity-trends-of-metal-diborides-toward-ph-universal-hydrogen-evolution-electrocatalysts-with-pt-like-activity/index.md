@@ -2,7 +2,7 @@
 title: " Revealing activity trends of metal diborides toward pH-universal
   hydrogen evolution electrocatalysts with Pt-like activity"
 publication_types:
-  - "0"
+  - "2"
 authors:
   - Qiuju Li#
   - Xu Zou#
