@@ -2,7 +2,7 @@
 title: Promoting Subordinate, Efficient Ruthenium Sites with Interstitial
   Silicon for Pt‐Like Electrocatalytic Activity
 publication_types:
-  - "0"
+  - "2"
 authors:
   - Hui Chen#
   - Xuan Ai#(共同一作)
