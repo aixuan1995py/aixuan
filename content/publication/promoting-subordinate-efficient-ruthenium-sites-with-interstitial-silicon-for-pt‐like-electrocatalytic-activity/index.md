@@ -5,12 +5,13 @@ publication_types:
   - "0"
 authors:
   - Hui Chen#
-  - Xuan Ai#
+  - Xuan Ai#(共同一作)
   - Wang Liu
   - Zhoubing Xie
   - Weiqiang Feng
   - Wei Chen and Xiaoxin Zou*
 doi: 10.1002/anie.201906394
+publication: Angewandte Chemie International Edition
 abstract: The fundamental understanding and rational manipulation of catalytic
   site preference at extended solid surfaces is crucial in the search for
   advanced catalysts. Herein we find that the Ru top sites at metallic ruthenium
