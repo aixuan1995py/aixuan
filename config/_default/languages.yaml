@@ -5,7 +5,7 @@
 # Default language
 zh:
   languageCode: zh-Hans
-  contentDir: content/zh
+  contentDir: content
   title: 艾轩
   params:
     description: Site description in Chinese...
@@ -16,7 +16,7 @@ zh:
         weight: 1
 
 # Uncomment the lines below to configure your website in a second language.
-en:
-  languageCode: en-us
+#en:
+#  languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  contentDir: content/en
+#  contentDir: content/en
