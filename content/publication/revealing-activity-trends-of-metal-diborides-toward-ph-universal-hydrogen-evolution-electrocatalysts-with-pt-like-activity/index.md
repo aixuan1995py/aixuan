@@ -11,7 +11,7 @@ authors:
   - Lei Sun and Xiaoxin Zou*
 publication: Advanced Energy Materials
 draft: false
-featured: false
+featured: true
 image:
   filename: aemtoc.jpg
   focal_point: Smart
