@@ -34,6 +34,6 @@ image:
   filename: featured.jpg
   focal_point: Smart
   preview_only: false
-url_pdf: "anie.201915663.pdf"
+url_pdf: "./anie.201915663.pdf"
 date: 2021-12-03T13:54:39.480Z
 ---
