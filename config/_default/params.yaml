@@ -21,7 +21,6 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: aixuan1995@163.com
-phone: 888 888 88 88
 address:
   street: 前进大街2699号
   city: 长春
@@ -35,7 +34,7 @@ coordinates:
 directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 office_hours:
   - '周一-周五 08:00 to 22:00'
-appointment_url: 'https://calendly.com'
+#appointment_url: 'https://calendly.com'
 #contact_links:
 #  - icon: twitter
 #    icon_pack: fab
