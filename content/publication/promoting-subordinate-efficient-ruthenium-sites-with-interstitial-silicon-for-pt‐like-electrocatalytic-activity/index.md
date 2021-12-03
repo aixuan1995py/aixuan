@@ -25,7 +25,7 @@ abstract: The fundamental understanding and rational manipulation of catalytic
   the HER, because of its suitable electronic structure governed by a good
   balance of ligand and strain effects.
 draft: false
-featured: false
+featured: true
 image:
   filename: anie201906394-toc-0001-m.jpg
   focal_point: Smart
