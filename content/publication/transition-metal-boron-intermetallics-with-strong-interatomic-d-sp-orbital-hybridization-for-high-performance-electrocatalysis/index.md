@@ -13,6 +13,7 @@ authors:
   - Yipu Liu
   - Yu Zhang
   - Xiaoxin Zou*
+doi: 10.1002/anie.201915663
 publication: Angewandte Chemie International Edition
 abstract: A theoretical and experimental study gives insights into the nature of
   the metal–boron electronic interaction in boron-bearing intermetallics and its
@@ -29,11 +30,11 @@ abstract: A theoretical and experimental study gives insights into the nature of
   synthesized. RuB is a high-performing, non-platinum electrocatalyst for the
   hydrogen evolution reaction.
 draft: false
+url_pdf: publication/transition-metal-boron-intermetallics-with-strong-interatomic-d-sp-orbital-hybridization-for-high-performance-electrocatalysis/anie.201915663.pdf
 featured: true
 image:
   filename: featured.jpg
   focal_point: Smart
   preview_only: false
-url_pdf: "publication/transition-metal-boron-intermetallics-with-strong-interatomic-d-sp-orbital-hybridization-for-high-performance-electrocatalysis/anie.201915663.pdf"
 date: 2021-12-03T13:54:39.480Z
 ---
