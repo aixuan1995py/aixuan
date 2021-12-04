@@ -9,6 +9,7 @@ authors:
   - Xuan Ai#(共同一作)
   - Hui Chen
   - Lei Sun and Xiaoxin Zou*
+doi: 10.1002/aenm.201803369
 publication: Advanced Energy Materials
 draft: false
 featured: true
