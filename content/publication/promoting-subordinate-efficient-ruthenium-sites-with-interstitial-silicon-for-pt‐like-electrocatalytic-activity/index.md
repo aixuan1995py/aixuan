@@ -30,5 +30,6 @@ image:
   filename: anie201906394-toc-0001-m.jpg
   focal_point: Smart
   preview_only: false
+url_pdf: "publication\promoting-subordinate-efficient-ruthenium-sites-with-interstitial-silicon-for-pt‐like-electrocatalytic-activity/anie.201906394.pdf"
 date: 2021-12-03T12:54:52.486Z
 ---
