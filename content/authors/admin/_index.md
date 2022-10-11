@@ -1,13 +1,13 @@
 ---
 title: 艾轩
-role: PhD student of Chemistry
+role: PhD of Chemistry
 avatar_filename: avatar.jpg
 bio: ""
 interests:
+  - 电催化材料
   - DFT
   - 高通量计算
-  - 固相合成
-  - 催化
+  - 无机合成
 social:
   - icon: envelope
     icon_pack: fas
