@@ -5,10 +5,9 @@ avatar_filename: avatar.jpg
 bio: ""
 interests:
   - 电催化材料
-  - 纳米酶
-  - 电化学生物传感
   - 高通量计算
   - 无机合成
+  - 机器学习
 social:
   - icon: envelope
     icon_pack: fas
@@ -22,7 +21,7 @@ social:
     display:
       header: true
 organizations:
-  - name: 吉林大学 无机合成与制备化学国家重点实验室
+  - name: 陕西师范大学 材料科学与工程学院
 education:
   courses:
     - course: 理学博士 无机化学
